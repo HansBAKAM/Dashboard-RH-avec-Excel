@@ -23,12 +23,14 @@ Les informations sont présentées de manière synthétique pour permettre une �
 📊 Exploration détaillée du turnover en fonction de différentes catégories :
 
 Turnover par Éducation : Visualisation des départs selon le niveau d'éducation des employés.
+
 Turnover par Poste Occupé : Détail des départs segmentés par les différents rôles dans l'entreprise.
+
 Taux de turnover par Département : Analyse du turnover par département pour identifier des tendances spécifiques.
-Les filtres permettent d’affiner l’analyse en fonction de l'éducation, du sexe et du département.
+
 Turnover par Tranche d'Âge : Détail des départs par différentes tranches d'âge pour repérer des groupes plus vulnérables au turnover.
+
 Turnover par Situation Matrimoniale : Exploration du turnover en fonction de l’état civil des employés, permettant de découvrir des tendances non évidentes.
-Les filtres sont également disponibles sur cette page pour permettre une personnalisation de l’analyse en fonction des critères choisis par l'utilisateur.
 
 Conclusion
 
